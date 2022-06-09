@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Form1.resources
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+C:\Users\LENOVO\OneDrive\Escritorio\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
